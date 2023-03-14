@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Live and let live",
+      "autoria": "Paul McCartney",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Friends not food",
+      "autoria": "Vegan",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Mas se você é vegano, o que você come?",
+      "autoria": "Ignorantes",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "❝But I think the greatest gift that it’s given me, and many people in is the opportunity to use our voice for the voiceless.❞",
+      "autoria": "Joaquin Phoenix",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
